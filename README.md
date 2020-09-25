@@ -1,1 +1,1 @@
-![image](https://github.com/jinjintang/PathTracing/1601050437(1).jpg)
+![image](https://github.com/jinjintang/PathTracing/screenshot.jpg)
